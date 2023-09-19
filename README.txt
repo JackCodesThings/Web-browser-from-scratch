@@ -8,3 +8,6 @@ v1.0 for all platforms
   NOTICE:
   -does not work with Google or any other domains with tight security (works with Bing though).
   -only supports URLs put in
+name change:
+  the name has been changed to Horizon Web Browser.
+  icon download link: https://mega.nz/file/UzkUnLSC#S1BmNqv05SptYO4ym86GCulR_yuWiKUlvt-Ie0NDVTw
